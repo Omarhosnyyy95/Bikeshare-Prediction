@@ -1,5 +1,5 @@
 ## Brief
-Building a multi-layer perceptron neural network from scratch **using only Numpy** to predict daily bike rental ridership. This project is the first project in the Udacity's Deep Learning Nanodegree program and its main goal is to understand how neural networks work before diving into deep learning frameworks like Pytorch and other types of neural networks like CNN, RNN, etc.
+Building a Multi-Layer Perceptron(MLP) network from scratch **using only Numpy** to predict daily bike rental ridership. This project is the first project in the Udacity's Deep Learning Nanodegree program and its main goal is to understand how neural networks work before diving into deep learning frameworks like Pytorch and other types of neural networks like CNN, RNN, etc.
 
 ## Network Prediction after training and hyperparameter tunning
 !["output"](/assets/output.png)
